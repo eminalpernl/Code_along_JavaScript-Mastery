@@ -1,0 +1,5 @@
+CRUD is an acronym for "create", "read", "update", "delete".
+It is another set of rules we are going to follow while building our API. Almost
+every website is a CRUD in a sense. For example whenever we have a database of users
+we need to be able to create user accounts, GET or read the profile details, update the
+profile details and finally delete an account.
